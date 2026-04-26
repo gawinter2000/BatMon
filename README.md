@@ -1,8 +1,11 @@
-# Home Assistant Add-on: BatMON
+# Home Assistant Add-on: BatMON - GW Clone
 
 [![Analytics][install-shield]]()
 
 ![Home Assistant Dashboard Screenshot](https://repository-images.githubusercontent.com/445289350/03f3d531-37cf-48be-84c8-e6c75270fc87)
+
+
+GW Clone of Patman repository
 
 Monitor and control various Battery management systems (BMS) over Bluetooth. This add-on reads the BMS and sends sensor
 data through MQTT to Home Assistant. Using bluetooth on the Home Assistant host system, it does not need any additional
